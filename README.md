@@ -32,7 +32,7 @@
     <li>First understanding the problem which is arguably the most important step</li>
     <li>Define objectives</li>
     <li>Architectural design</li>
-    <li>Functional desig</li>
+    <li>Functional design</li>
     <li>User interface (UI) and design (UX)</li>
     <li>Data desig</li>
     <li>Performance</li>
