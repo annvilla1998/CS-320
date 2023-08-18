@@ -34,7 +34,7 @@
     <li>Architectural design</li>
     <li>Functional design</li>
     <li>User interface (UI) and design (UX)</li>
-    <li>Data desig</li>
+    <li>Data design</li>
     <li>Performance</li>
     <li>Security</li>
     <li>Error handling</li>
