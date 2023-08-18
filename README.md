@@ -27,5 +27,5 @@
 </br>
 <li>How do I approach designing software?</li>
 </br>
-<p>Designing software involves creating a plan that outlines how your software will meet its intended purpose while considering factors like user needs, functionality, performance, scalability, and maintainability. </p>
+<p>Designing software involves creating a plan that outlines how the software will meet its intended purpose while considering factors like user needs, functionality, performance, scalability, and maintainability. I would approach it by first understanding the problem which is arguably the most important step, then define objectives, face architectural design, functional design, the user interface and design (UX), data design, performance, security, error handling, testing strategies, and documentation.</p>
 </br>
